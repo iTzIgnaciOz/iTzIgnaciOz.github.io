@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff11fbc7-c7fc-4e95-9903-46f041c2b978" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/avatar.png" afterPath="$PROJECT_DIR$/img/avatar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bg-btn.png" afterPath="$PROJECT_DIR$/img/bg-btn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bg-card2.png" afterPath="$PROJECT_DIR$/img/bg-card2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bg1.jpg" afterPath="$PROJECT_DIR$/img/bg1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/blog1.jpg" afterPath="$PROJECT_DIR$/img/blog1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/blog2.jpg" afterPath="$PROJECT_DIR$/img/blog2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/blog3.jpg" afterPath="$PROJECT_DIR$/img/blog3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/blog4.jpg" afterPath="$PROJECT_DIR$/img/blog4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/blog5.jpg" afterPath="$PROJECT_DIR$/img/blog5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/favicon.ico" afterPath="$PROJECT_DIR$/img/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/hr1.png" afterPath="$PROJECT_DIR$/img/hr1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/p1.jpg" afterPath="$PROJECT_DIR$/img/portfolio/p1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/p2.jpg" afterPath="$PROJECT_DIR$/img/portfolio/p2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/p3.jpg" afterPath="$PROJECT_DIR$/img/portfolio/p3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/p4.jpg" afterPath="$PROJECT_DIR$/img/portfolio/p4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/p5.jpg" afterPath="$PROJECT_DIR$/img/portfolio/p5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/p6.jpg" afterPath="$PROJECT_DIR$/img/portfolio/p6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/p7.jpg" afterPath="$PROJECT_DIR$/img/portfolio/p7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/p8.jpg" afterPath="$PROJECT_DIR$/img/portfolio/p8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/p9.jpg" afterPath="$PROJECT_DIR$/img/portfolio/p9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumb-p1.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumb-p1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumb-p2.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumb-p2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumb-p3.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumb-p3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumb-p4.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumb-p4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumb-p5.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumb-p5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumb-p6.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumb-p6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumb-p7.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumb-p7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumb-p8.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumb-p8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumb-p9.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumb-p9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile.jpg" afterPath="$PROJECT_DIR$/img/profile.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile2.jpg" afterPath="$PROJECT_DIR$/img/profile2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team1.jpg" afterPath="$PROJECT_DIR$/img/team1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team2.jpg" afterPath="$PROJECT_DIR$/img/team2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team3.jpg" afterPath="$PROJECT_DIR$/img/team3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regulard41d.eot" afterPath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regulard41d.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont93e3.eot" afterPath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont93e3.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont93e3.ttf" afterPath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont93e3.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont93e3.woff" afterPath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont93e3.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfontd41d.eot" afterPath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfontd41d.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nivo-lightbox/themes/default/close.png" afterPath="$PROJECT_DIR$/vendor/nivo-lightbox/themes/default/close.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nivo-lightbox/themes/default/close@2x.png" afterPath="$PROJECT_DIR$/vendor/nivo-lightbox/themes/default/close@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nivo-lightbox/themes/default/loading.gif" afterPath="$PROJECT_DIR$/vendor/nivo-lightbox/themes/default/loading.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nivo-lightbox/themes/default/loading@2x.gif" afterPath="$PROJECT_DIR$/vendor/nivo-lightbox/themes/default/loading@2x.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nivo-lightbox/themes/default/next.png" afterPath="$PROJECT_DIR$/vendor/nivo-lightbox/themes/default/next.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nivo-lightbox/themes/default/next@2x.png" afterPath="$PROJECT_DIR$/vendor/nivo-lightbox/themes/default/next@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nivo-lightbox/themes/default/prev.png" afterPath="$PROJECT_DIR$/vendor/nivo-lightbox/themes/default/prev.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nivo-lightbox/themes/default/prev@2x.png" afterPath="$PROJECT_DIR$/vendor/nivo-lightbox/themes/default/prev@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/owl.carousel/owl-carousel/AjaxLoader.gif" afterPath="$PROJECT_DIR$/vendor/owl.carousel/owl-carousel/AjaxLoader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/owl.carousel/owl-carousel/grabbing.png" afterPath="$PROJECT_DIR$/vendor/owl.carousel/owl-carousel/grabbing.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bgmask2.html" afterPath="$PROJECT_DIR$/img/bgmask2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/projects.html" afterPath="$PROJECT_DIR$/img/projects.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/projects2.html" afterPath="$PROJECT_DIR$/img/projects2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-2.html" afterPath="$PROJECT_DIR$/index-2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single.html" afterPath="$PROJECT_DIR$/single.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/animate.css" afterPath="$PROJECT_DIR$/vendor/animate.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/cross-browser.js" afterPath="$PROJECT_DIR$/vendor/cross-browser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont93e3.html" afterPath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont93e3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont93e3.svg" afterPath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont93e3.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/holder.js" afterPath="$PROJECT_DIR$/vendor/holder.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery.min.js" afterPath="$PROJECT_DIR$/vendor/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nivo-lightbox/nivo-lightbox.css" afterPath="$PROJECT_DIR$/vendor/nivo-lightbox/nivo-lightbox.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nivo-lightbox/nivo-lightbox.min.js" afterPath="$PROJECT_DIR$/vendor/nivo-lightbox/nivo-lightbox.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nivo-lightbox/themes/default/default.css" afterPath="$PROJECT_DIR$/vendor/nivo-lightbox/themes/default/default.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/owl.carousel/owl-carousel/owl.carousel.css" afterPath="$PROJECT_DIR$/vendor/owl.carousel/owl-carousel/owl.carousel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/owl.carousel/owl-carousel/owl.carousel.js" afterPath="$PROJECT_DIR$/vendor/owl.carousel/owl-carousel/owl.carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/owl.carousel/owl-carousel/owl.theme.css" afterPath="$PROJECT_DIR$/vendor/owl.carousel/owl-carousel/owl.theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/perfect-scrollbar/css/perfect-scrollbar.min.css" afterPath="$PROJECT_DIR$/vendor/perfect-scrollbar/css/perfect-scrollbar.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/perfect-scrollbar/js/min/perfect-scrollbar.jquery.min.js" afterPath="$PROJECT_DIR$/vendor/perfect-scrollbar/js/min/perfect-scrollbar.jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/validate.js" afterPath="$PROJECT_DIR$/vendor/validate.js" />
+    </list>
+    <ignored path="imsalazar.github.io.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="imsalazar.github.io" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="30" />
+    <option name="width" value="1442" />
+    <option name="height" value="871" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imsalazar.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imsalazar.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imsalazar.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff11fbc7-c7fc-4e95-9903-46f041c2b978" name="Default" comment="" />
+      <created>1456854211850</created>
+      <option name="number" value="Default" />
+      <updated>1456854211850</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="30" width="1442" height="871" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26108727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32756326" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
